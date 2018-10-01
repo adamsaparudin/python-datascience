@@ -1,0 +1,2 @@
+['rendang', 'ayam goreng', 'kfc']
+{'makan': 'eat', 'minum': 'drink'}
