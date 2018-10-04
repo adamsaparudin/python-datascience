@@ -24,6 +24,7 @@ Input nilai siswa: 9
 ```
 
 ###tampilan menu nomor 3
+```
 {
   siswa: {
     4: [
@@ -37,3 +38,4 @@ Input nilai siswa: 9
     4: 8.5
   }
 }
+```
