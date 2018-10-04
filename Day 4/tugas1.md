@@ -28,10 +28,14 @@ Input nilai siswa: 9
 {
   siswa: {
     4: [
-      nama: "Andrew",
-      nilai: 9,
-      nama: "Andri",
-      nilai: 8
+    {
+        nama: "Andrew",
+        nilai: 9,
+      },
+      {
+        nama: "Andri",
+        nilai: 8
+      }
     ]
   }
   nilai_rata_rata: {
