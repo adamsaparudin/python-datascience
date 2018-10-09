@@ -1,0 +1,17 @@
+{
+    "nilai_rata_rata": {
+        "4": 8.5
+    },
+    "siswa": {
+        "4": [
+            {
+                "nama": "Adam",
+                "nilai": 9
+            },
+            {
+                "nama": "Andrew",
+                "nilai": 8
+            }
+        ]
+    }
+}
