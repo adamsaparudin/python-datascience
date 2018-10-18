@@ -9,4 +9,5 @@ Dengan, menggunakan data tersebut simpulkan point dari data berikut ini:
 * Simpulkan negara mana yang paling banyak menang dan kalah dalam satu tahun.
 * Simpulan negara mana yang paling banyak menang dan kalah dari semua data.
 * (optional) Berapa persen negara yang menang dan kalah dalam rentan satu tahun
-* 
+
+## Kirim hasil ke adamsaparudin@gmail.com
