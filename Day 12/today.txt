@@ -1,0 +1,8 @@
+Learning Resource Datascience
+- https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
+
+Recommended Books
+- https://drive.google.com/file/d/1qpEXg-BI-_Cac0GCVRuHkaQZkXsuTg0Y/view?usp=sharing
+
+Statiscal Learning book
+- https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf
